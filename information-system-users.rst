@@ -10,7 +10,7 @@ Information System and also to report any incident.
 User guides
 -----------
 
-* `ginfo <ginfo.rst>`_: A
+* `ginfo <users/ginfo.rst>`_: A
   client to query GLUE 2.0 information from the BDII.
 
 * `lcg-info/lcg-infosites <files/gLite-3-UserGuide.pdf>`_: Two different
