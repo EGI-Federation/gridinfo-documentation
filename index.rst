@@ -4,11 +4,11 @@ Welcome
 In this page you will find documentation about the Grid Information System
 organised in the following way:
 
-* Information System for Sys Admins
-* Information System for Users
-* Developers Resources
-* GLUE
-* Useful Links
+* `Information System for Sys Admins <information-system-sys-admins.rst>`_
+* `Information System for Users <information-system-users.rst>`_
+* `Developers Resources <information-system-developers.rst>`_
+* `GLUE <glue.rst>`_
+* `Useful Links <docs.rst>`_
 
 .. toctree::
    :maxdepth: 2
