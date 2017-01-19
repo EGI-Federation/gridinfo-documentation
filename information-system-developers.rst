@@ -4,12 +4,11 @@ Information System for Developers
 Information System Developers
 -----------------------------
 
-* `Developers Guide <developers/developers-guide.rst>`_
+* :ref:`developers_guide`
 * `BDII testbed <https://gridinfo.web.cern.ch/sites/gridinfo.web.cern.ch/files/testbed.pdf#overlay-context=information-system-developers>`_
-* `Test Plan <developers/test-plan.rst>`_
-* `Tests <developers/tests.rst>`_
-* `GLUE Validator code <developers/glue-validator-code.rst>`_: A guide on how
-  to contribute to the GLUE Validator code
+* :ref:`test_plan`
+* :ref:`tests`
+* :ref:`glue_validator_developers_guide`: A guide on how to contribute to the GLUE Validator code
 * `BDII bugs <https://its.cern.ch/jira/browse/GRIDINFO-6?jql=project%20%3D%20GRIDINFO%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20priority%20DESC>`_:
   Jira tracker where changes in the BDII are tracked
 * `BDII Performance Studies <https://twiki.cern.ch/twiki/bin/view/EGEE/InformationSystem#BDII_Performance_Studies>`_
@@ -18,10 +17,9 @@ Information System Developers
 Middleware Developers
 ---------------------
 
-* `Resource Level BDII <developers/resource-bdii.rst>`_: A guide for middleware
-  developers on how to integrate a Resource BDII with their services
-* `Writing Information Providers <developers/information-provider-guide.rst>`_:
-  A guide on how to write information providers
+* :ref:`resource_bdii`: A guide for middleware developers on how to integrate a
+  Resource BDII with their services
+* :ref:`resource_provider_guide`: A guide on how to write information providers
 * `Publishing a new service <https://wiki.egi.eu/wiki/Adding_Custom_Service_to_Information_System>`_:
   A guide summarising the steps to publish a new service in the information system
 * `GLUE 2.0 issues with Information Providers <https://twiki.cern.ch/twiki/bin/view/EGEE/ISproviders>`_:

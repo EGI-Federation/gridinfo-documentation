@@ -1,3 +1,5 @@
+.. _information_provider_guide:
+
 Information Provider Guide
 ==========================
 
@@ -59,10 +61,10 @@ Integration with the BDII
 
 The LDIF files, providers and plugins are deployed by placing them in the
 relevant directory as specified in the bdii.conf file.
-See the `Resource BDII <resource-bdii.rst>`_ documentation for more details.
+See the :ref:`resource_bdii` documentation for more details.
 
 Testing
 -------
 
-Use the `glue-validator <../glue/glue-validator-guide.rst>`_ tool to make sure the
-information provider correctly generates GLUE1.3 and GLUE 2.0 information.
+Use the :ref:`glue_validator_guide` tool to make sure the information provider
+correctly generates GLUE1.3 and GLUE 2.0 information.

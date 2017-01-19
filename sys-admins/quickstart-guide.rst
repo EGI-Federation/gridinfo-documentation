@@ -1,3 +1,5 @@
+.. _quickstart_guide:
+
 Quickstart guide
 ================
 
@@ -87,5 +89,3 @@ When a BDII is started, the following processes run:
   the query load and/or the /opt/bdii/etc/bdii-slapd.conf file.
 * 1 bdii-update process.
 * Periodically, one ldapadd, ldapdelete or ldapmodify process.
-
-
