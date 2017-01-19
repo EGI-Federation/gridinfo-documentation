@@ -6,6 +6,7 @@ organised in the following way:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
 
    intro
@@ -16,12 +17,7 @@ organised in the following way:
    information-system-users
    users/ginfo
    information-system-developers
-   developers/developers-guide
-   developers/glue-validator-code
-   developers/information-provider-guide
-   developers/resource-bdii
-   developers/test-plan
-   developers/tests
+   developers/*
    glue
    glue/glue-validator-guide
    docs
