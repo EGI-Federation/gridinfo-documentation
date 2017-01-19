@@ -4,8 +4,8 @@ Information System for Sys Admins
 Releases
 --------
 
-* `BDII releases <bdii-releases.rst>`_: Summary of the BDII releases
-* `Known Issues <known-issues.rst>`_: Summary of the known issues affecting all
+* :ref:`bdii_releases`: Summary of the BDII releases
+* :ref:`known-issues`: Summary of the known issues affecting all
   BDII flavours
 * `Former EMI BDII releases <http://malandes.web.cern.ch/malandes/infosys/bdii_emi.html>`_:
   details on the BDII updates released during the EMI project
