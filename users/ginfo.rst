@@ -103,7 +103,9 @@ JSON output for an Endpoint:
 CSV output for an Endpoint:
 ```````````````````````````
 
-HealthState,Implementor,InterfaceName,ServingState,URL,ImplementationVersion,Capability,ServiceForeignKey,QualityLevel,ID,InterfaceVersion
+::
+
+  HealthState,Implementor,InterfaceName,ServingState,URL,ImplementationVersion,Capability,ServiceForeignKey,QualityLevel,ID,InterfaceVersion
 
 
 Examples
