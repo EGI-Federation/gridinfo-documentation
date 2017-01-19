@@ -9,6 +9,8 @@ organised in the following way:
    :caption: Contents:
 
    intro
+   bdii-releases
+   known-issues
    information-system-sys-admins
    sys-admins/quickstart-guide
    information-system-users
