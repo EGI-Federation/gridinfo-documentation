@@ -25,7 +25,7 @@ organised in the following way:
 Useful links
 ------------
 
-* `Grid Information System Introduction <intro.rst>`_
+* :ref:`grid_information_system_intro`
 * Report an incident or a request: `GGUS <http://ggus.org>`_
 * `Contact us <project-grid-info-support project-grid-info-support@cern.ch>`_
 

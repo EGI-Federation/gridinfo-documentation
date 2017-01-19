@@ -1,3 +1,5 @@
+.. _developers_guide:
+
 Developers Guide
 ================
 
@@ -99,9 +101,9 @@ Testing and Quality Assurance
 -----------------------------
 
 Once the testing repository has been created, testing can begin. The testing
-required is outlined in the `test plan <test-plan.rst>`_. The tests described
-in the test plan MUST be carried out for each component before it is considered
-for release. The `CERN Openstack infrastructure <https://openstack.cern.ch/>`_
+required is outlined in the :ref:`test_plan`. The tests described in the test
+plan MUST be carried out for each component before it is considered for
+release. The `CERN Openstack infrastructure <https://openstack.cern.ch/>`_
 currently hosts the
 `BDII testbed <https://gridinfo.web.cern.ch/sites/gridinfo.web.cern.ch/files/testbed.pdf#overlay-context=information-system-developers>`_.
 
@@ -130,8 +132,8 @@ promoted to the stable repository by running:
 This will create the packages also in the
 `Linuxsoft <http://linuxsoft.cern.ch/internal/repos/>`_ repository.
 
-The release should be announced and documented in the
-`BDII releases web page <../bdii-releases.rst>`_. This page offers an RSS feed.
+The release should be announced and documented in the :ref:`bdii_releases`.
+This page offers an RSS feed.
 
 The corresponding JIRA and GGUS tickets that are fixed in the release, should
 be closed including a link to the release notes.

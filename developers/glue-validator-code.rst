@@ -1,3 +1,5 @@
+.. _glue_validator_developers_guide:
+
 GLUE Validator Developers Guide
 ===============================
 

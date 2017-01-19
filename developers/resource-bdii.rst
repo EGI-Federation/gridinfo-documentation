@@ -1,3 +1,5 @@
+.. _resource_bdii:
+
 Resource BDII
 =============
 
@@ -6,10 +8,9 @@ about a Grid Service and is typically deployed with the service itself. It
 consists of an OpenLDAP database that is periodically updated by a parallel
 process that obtains information about the Grid Service from one or more
 information sources. For more detailed information about the BDII, please read
-the `Information System Introduction <../intro.rst>`_. All services MUST
-publish their existence in both the
-`GLUE 1.3 <http://forge.gridforum.org/sf/go/doc14185>`_ and
-`GLUE 2.0 <http://cern.ch/glue20>`_ data models.
+the :ref:`grid_information_system_intro`. All services MUST publish their
+existence in both the `GLUE 1.3 <http://forge.gridforum.org/sf/go/doc14185>`_
+and `GLUE 2.0 <http://cern.ch/glue20>`_ data models.
 
 For any further questions, please contact
 `project-grid-info-support <project-grid-info-support@cern.ch>`_.
@@ -31,8 +32,8 @@ Configuration
 
 The BDII should need no further configuration, however, information on the
 configuration parameters used by the BDII are described in the BDII
-`quickstart guide <../sys-admins/quickstart-guide.rst>`_. The service can be
-started with the following command.
+:ref:`quickstart_guide`.
+The service can be started with the following command.
 
 ::
 
@@ -136,5 +137,5 @@ Test that the Glue 2.0 root entry is available
 GLUE Validation tests
 `````````````````````
 
-The `Glue Validator <../glue/glue-validator-guide>`_ should also be used to
-test for GLUE 1.x and GLUE 2.0 conformance.
+The :ref:`glue_validator_guide` should also be used to test for GLUE 1.x and
+GLUE 2.0 conformance.

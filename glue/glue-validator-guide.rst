@@ -1,3 +1,5 @@
+.. _glue_validator_guide:
+
 GLUE validator guide
 ====================
 
@@ -5,7 +7,7 @@ The glue-validator command is a very useful command for system administrators
 and middleware developers who want to validate whether the information
 published by the service they are managing or developing is compliant with Glue
 2.0 and Glue 1.3. For more information about the GLUE schema, please visit the
-`GLUE <http://gridinfo.web.cern.ch/glue>`_ section in this web.
+:ref:`glue` section in this web.
 
 The glue-validator is also able to validate against the
 `EGI profile for Glue 2.0 <http://go.egi.eu/glue2-profile>`_. This is the

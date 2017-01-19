@@ -1,3 +1,5 @@
+.. _grid_information_system_intro:
+
 Grid Information System Introduction
 ====================================
 
