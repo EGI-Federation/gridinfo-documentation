@@ -15,7 +15,7 @@ Releases
 Documentation
 -------------
 
-* :ref:`quickstart-guide`
+* :ref:`quickstart_guide`
 * :download:`Sys admin guide <files/EMI_BDII_sysadmin.pdf>`: detailed documentation for
   BDII sys admins including:
 
