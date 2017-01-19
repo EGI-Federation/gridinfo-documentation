@@ -5,7 +5,7 @@ Releases
 --------
 
 * :ref:`bdii_releases`: Summary of the BDII releases
-* :ref:`known-issues`: Summary of the known issues affecting all
+* :ref:`known_issues`: Summary of the known issues affecting all
   BDII flavours
 * `Former EMI BDII releases <http://malandes.web.cern.ch/malandes/infosys/bdii_emi.html>`_:
   details on the BDII updates released during the EMI project
@@ -15,8 +15,8 @@ Releases
 Documentation
 -------------
 
-* `Quickstart guide <sys-admins/quickstart-guide.rst>`_
-* `Sys admin guide <files/EMI_BDII_sysadmin.pdf>`_: detailed documentation for
+* :ref:`quickstart-guide`
+* :download:`Sys admin guide <files/EMI_BDII_sysadmin.pdf>`: detailed documentation for
   BDII sys admins including:
 
   * Functional description
