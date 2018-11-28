@@ -3,6 +3,21 @@
 BDII Releases
 =============
 
+Update: Update 11 - 28.11.2018
+
++-----------------------------------+---------------+---------------------------------------------------------------------------+------------------------------------+
+| Name & Version                    | Platform      | Release notes                                                             | Installation & configuration       |
++===================================+===============+===========================================================================+====================================+
+| glite-info-update-endpoints 3.0.1 | SL6, CentOS 7 | #1: Fix silent fail on CentOS 7 when unable to validate GOCDB certificate | Check configuration changes.       |
+|                                   |               | #11: Totally drop OSG support                                             |                                    |
+|                                   |               | #17: Handle sane defaults in the configuration file                       |                                    |
+|                                   |               | PR#14: Linting and build in containers                                    |                                    |
++-----------------------------------+---------------+---------------------------------------------------------------------------+------------------------------------+
+| bdii 5.2.25                       | SL6, CentOS 7 | #3: Fix restart failing on stale PID                                      | Restart to use new init script.    |
+|                                   |               | PR#9: import BDII product card JSON                                       |                                    |
+|                                   |               | PR#11: Linting and build in containers                                    |                                    |
++-----------------------------------+---------------+---------------------------------------------------------------------------+------------------------------------+
+
 Update: Update 10 - 06.10.2014
 
 +-----------------------+----------+-----------------------------------------------------------------------+------------------------------------+
