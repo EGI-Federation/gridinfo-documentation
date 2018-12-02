@@ -63,7 +63,7 @@ during troubleshooting.
 +-------------------------------------+-----------------------------------------------+
 | Location                            | Description                                   |
 +=====================================+===============================================+
-| /etc/bdii/bdii.conf                 | DII configuration file                        |
+| /etc/bdii/bdii.conf                 | BDII configuration file                        |
 +-------------------------------------+-----------------------------------------------+
 | /etc/bdii/bdii-(top-)slapd.conf     | The slapd.conf template for use with the bdii |
 +-------------------------------------+-----------------------------------------------+
