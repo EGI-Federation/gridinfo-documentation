@@ -1,7 +1,7 @@
 # gridinfo-documentation
 
-Documentation for the Grid Info projects:
-http://gridinfo-documentation.readthedocs.io/en/latest/
+This repository hosts the documentation for the Grid Info projects, which is
+available at http://gridinfo-documentation.readthedocs.io/en/latest/
 
 Documentation is written in reStructuredText, built using Sphinx and publihsed
 online using http://readthedocs.io.
